@@ -1,12 +1,12 @@
 {
-  "seq": 3,
-  "issued": 1788029659,
+  "seq": 4,
+  "issued": 1788033065,
   "target": "all",
   "content": [],
   "firmware": {
-    "version": "0.4.2",
-    "url": "firmware-0.4.2.bin",
-    "size": 2224064,
-    "sha256": "684fc7b0d0aa2e5c76a25e85135c379550f1156f0ddb8633c52419d65db5c4e3"
+    "version": "0.4.3",
+    "url": "firmware-0.4.3.bin",
+    "size": 2224304,
+    "sha256": "4b79e77f4fdda2838caed59d7aced6f379a1ae9224445db8be0b8f38b5557191"
   }
 }
