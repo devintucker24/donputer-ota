@@ -1,12 +1,13 @@
 {
-  "seq": 10,
-  "issued": 1788046276,
+  "seq": 11,
+  "issued": 1788049539,
   "target": "all",
-  "content": [],
-  "firmware": {
-    "version": "0.4.7",
-    "url": "firmware-0.4.7.bin",
-    "size": 2225312,
-    "sha256": "0da7b029c0b1acfcbf284f78a61f0b8ed624b9298e11c1a9df2a15e74440ef4c"
-  }
+  "content": [
+    {
+      "name": "playlist.txt",
+      "url": "content/playlist.txt",
+      "size": 232,
+      "sha256": "0512bd024506230224a5766b77f0958d22d1e82b5359fa8e9fa2e1a7b8e586cc"
+    }
+  ]
 }

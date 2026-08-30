@@ -1,0 +1,6 @@
+# DonPuter playlist - seed file, delivered over the air 2026-08-29.
+# One animation name per line, played in order; lines starting with #
+# are comments. (Format subject to the playlist feature's design.)
+cripwalk
+kickstomp
+headbob
