@@ -1,13 +1,6 @@
 {
-  "seq": 11,
-  "issued": 1788049539,
+  "seq": 12,
+  "issued": 1788049624,
   "target": "all",
-  "content": [
-    {
-      "name": "playlist.txt",
-      "url": "content/playlist.txt",
-      "size": 232,
-      "sha256": "0512bd024506230224a5766b77f0958d22d1e82b5359fa8e9fa2e1a7b8e586cc"
-    }
-  ]
+  "content": []
 }
