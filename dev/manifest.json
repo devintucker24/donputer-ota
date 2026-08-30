@@ -1,0 +1,12 @@
+{
+  "seq": 1,
+  "issued": 1788120552,
+  "target": "all",
+  "content": [],
+  "firmware": {
+    "version": "0.5.0",
+    "url": "firmware-0.5.0.bin",
+    "size": 2226896,
+    "sha256": "5d29419065bff3f3cf30c76d6669cc3f9bd278848e4e36bdca3a6f90315f01e0"
+  }
+}
