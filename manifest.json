@@ -1,12 +1,37 @@
 {
-  "seq": 13,
-  "issued": 1788122612,
+  "seq": 14,
+  "issued": 1788126396,
   "target": "all",
-  "content": [],
+  "content": [
+    {
+      "name": "cripwalk.don",
+      "url": "content/cripwalk.don",
+      "size": 531129,
+      "sha256": "ae4323dcceed3d7e2604deeea80beca9b9ac3eeaa925cbbb85a6df3545e3cf2e"
+    },
+    {
+      "name": "headbob.don",
+      "url": "content/headbob.don",
+      "size": 707468,
+      "sha256": "b06d568062fa60b7a78046ff1dc4c87924c5ad0848db48f31b1e42706c23c577"
+    },
+    {
+      "name": "kickstomp.don",
+      "url": "content/kickstomp.don",
+      "size": 884337,
+      "sha256": "d086b8e11bb7e4b36498bfeb4bd286b8e9bb90361151fa222eb77a29095acbd2"
+    },
+    {
+      "name": "kickstomp_party.don",
+      "url": "content/kickstomp_party.don",
+      "size": 896451,
+      "sha256": "a7f4bdaf06496a5b513621724d5eea06b35361c427401ab63ae5187914d5e377"
+    }
+  ],
   "firmware": {
-    "version": "0.4.8",
-    "url": "firmware-0.4.8.bin",
-    "size": 2225312,
-    "sha256": "cbbf3c2cbc4b1bcb7175321f47d13b3e12a97d0703ac6fb4a8c4431bace9c111"
+    "version": "0.5.0",
+    "url": "firmware-0.5.0.bin",
+    "size": 2231552,
+    "sha256": "d67a563dba37ebdeb876e3949c1019c4908f1029fb44715466d89171cd668666"
   }
 }
