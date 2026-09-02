@@ -1,13 +1,12 @@
 {
-  "seq": 2,
-  "issued": 1788376039,
+  "seq": 3,
+  "issued": 1788376252,
   "target": "all",
-  "content": [
-    {
-      "name": "cripwalk-v3.don",
-      "url": "content/cripwalk-v3.don",
-      "size": 531145,
-      "sha256": "1f4752fa6ba81587fd8d68f59804633cc1b773577a3f88043281b950d40495f0"
-    }
-  ]
+  "content": [],
+  "firmware": {
+    "version": "0.5.0",
+    "url": "firmware-0.5.0.bin",
+    "size": 2232224,
+    "sha256": "9e75f82075cd94b3ed9b15ddf080fd97b007d8419274e1471c87984e41cc3c17"
+  }
 }
